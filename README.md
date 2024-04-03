@@ -4,7 +4,9 @@
     Olá! 👋 eu sou o 
     <a href="https://www.linkedin.com/in/eduardo-arthur-desenvolvedor/">Eduardo Arthur </a>
   </h1>
-  
+  <p>
+    Olá! Sou estudante em Análise e Desenvolvimento de Sistemas pela FIAP e venho aprofundando meus conhecimentos na área de programação com os cursos da Alura. Estou colocando em prática os aprendizado que estou adquirindo na graduação e nos cursos por meio de projetos práticos que venho postando nos repositórios daqui, acredito que assim desenvolvo ainda mais minhas habilidades.
+  </p>
   
 <div align="center">
   <a href="https://github.com/duribeiro">
