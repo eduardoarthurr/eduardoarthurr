@@ -18,7 +18,7 @@
 <div align="center" valign="top"><br>
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="github.png">
-  <img align="center" alt="github" height="35" width="35" src="java.png">
+  
   
 </div><br>
 
