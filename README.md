@@ -20,6 +20,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="github.png">
+  <img align="center" alt="git" height="30" width="40" src="https://github.com/user-attachments/assets/0c68e490-13bc-4f86-9e40-db3b80593066)">
   
 </div><br>
 
