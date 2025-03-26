@@ -5,7 +5,10 @@
     <a href="https://www.linkedin.com/in/eduardo-arthur-desenvolvedor/">Dudu </a>
   </h1>
   <p>
-    Olá! Sou estudante em Análise e Desenvolvimento de Sistemas pela FIAP e venho aprofundando meus conhecimentos em java com os cursos da Alura. Estou colocando em prática os aprendizado que estou adquirindo na graduação e nos cursos por meio de projetos práticos que venho postando nos repositórios daqui, acredito que assim posso desenvolvoer ainda mais minhas habilidades adiquirindo um pouco mais de experincias com as tecnologias.
+    
+   Sou estudante em Análise e Desenvolvimento de Sistemas pela FIAP e venho aprofundando meus conhecimentos na área de programação com os cursos extra curriculares e colocando em prática o aprendizado que estou adquirindo na graduação por meio de projetos práticos, apesar de ter conhecimento nas tecnologias web HTML, CSS, JavaScript e Bootstrap atualmente estou desenvolvendo mais minhas habilidades com a linguagem Java e o framework Springboot com o foco em aplicações web, além de aprofundar meus estudos em banco de dados com o MySQL.
+   Minhas próximas pretensões profissionais estão voltadas primeiramente no cargo de estágio e posteriormente sendo efetivado na área como junior contribuindo no crescimento da comunidade tech.
+
   </p>
   
 <div align="center">
