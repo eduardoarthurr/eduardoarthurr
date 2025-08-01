@@ -4,6 +4,9 @@
 
 Olá, muito prazer! 👋 Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP apesar de ter me desenvolvido bastante com as tecnologias web HTML, CSS, JavaScript e Bootstrap atualmente estou me aprofundando mais minhas habilidades com a linguagem Python e o ambiente de execução NodeJs com o foco em aplicações backend, Microservices e Integrações com sistemas, além de estar evoluindo mais meus estudos em banco de dados com o PostgreSQL. 
 
+---
+# Meus contatos 
+
 <p align="center">
     <a href="https://www.linkedin.com/in/eduardo-arthur-desenvolvedor/">
         <img 
@@ -19,6 +22,7 @@ Olá, muito prazer! 👋 Sou estudante de Análise e Desenvolvimento de Sistemas
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
         />
     </a>
+    
 </p>
 
 ---
