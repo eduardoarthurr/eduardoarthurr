@@ -1,6 +1,7 @@
 # 💻 Eduardo Arthur 
 
 **`Desenvolvedor FullStack`**
+
 Olá, muito prazer! 👋 Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP apesar de ter me desenvolvido bastante com as tecnologias web HTML, CSS, JavaScript e Bootstrap atualmente estou me aprofundando mais minhas habilidades com a linguagem Python e o ambiente de execução NodeJs com o foco em aplicações backend, Microservices e Integrações com sistemas, além de estar evoluindo mais meus estudos em banco de dados com o PostgreSQL. 
 
 <p align="center">
