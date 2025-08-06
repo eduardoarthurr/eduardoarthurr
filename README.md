@@ -84,6 +84,15 @@ Olá, muito prazer! 👋 Sou estudante de Análise e Desenvolvimento de Sistemas
 
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -110,7 +119,7 @@ Olá, muito prazer! 👋 Sou estudante de Análise e Desenvolvimento de Sistemas
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoarthurr&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoarthurr&theme=gruvbox&inclued_all_commits=true&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
