@@ -119,7 +119,7 @@ Olá, muito prazer! 👋 Sou estudante de Análise e Desenvolvimento de Sistemas
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoarthurr&theme=gruvbox&inclued_all_commits=false&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoarthurr&theme=gruvbox&inclued_all_commits=true&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
