@@ -5,22 +5,6 @@
 Olá, muito prazer! 👋
 Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP e apaixonado por tecnologia. Desde que iniciei meus estudos, tenho me dedicado a construir uma base sólida em desenvolvimento web e, atualmente, estou focado em me especializar no ecossistema JavaScript, explorando tanto o front-end quanto o back-end.
 
-💻 Minhas principais competências envolvem:
-
-JavaScript (ES6+) – programação funcional e orientada a objetos
-
-TypeScript – tipagem estática aplicada a projetos front-end e back-end
-
-Node.js, Express, MongoDB, MySQL/MariaDB – criação de APIs REST, autenticação (sessions e JWT), integrações e microserviços
-
-React JS (Hooks, Redux, Redux-Saga) – desenvolvimento de interfaces modernas e escaláveis
-
-NestJS + Strapi + PostgreSQL – aplicações robustas com CSR, SSR, SSG e ISR
-
-Ferramentas e práticas: Webpack, Babel, EJS, Jest (testes automatizados), Mongoose, Sequelize, princípios S.O.L.I.D, POO, padrões de projeto (GoF)
-
-🛠️ Também tenho experiência com configuração e deploy em servidores Linux (Ubuntu Server), aplicando práticas de segurança como SSH e TLS/HTTPS, garantindo performance e confiabilidade em produção.
-
 ---
 
 <p align="center">
