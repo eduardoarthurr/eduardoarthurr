@@ -2,8 +2,26 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, muito prazer! 👋 Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP apesar de ter me desenvolvido bastante com as tecnologias web HTML, CSS, JavaScript e Bootstrap atualmente estou me aprofundando mais minhas habilidades com a linguagem Python e o ambiente de execução NodeJs com o foco em aplicações backend, Microservices e Integrações com sistemas, além de estar evoluindo mais meus estudos em banco de dados com o PostgreSQL. 
+🚀 Olá, muito prazer! 👋
+Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP e apaixonado por tecnologia. Desde que iniciei meus estudos, tenho me dedicado a construir uma base sólida em desenvolvimento web e, atualmente, estou focado em me especializar no ecossistema JavaScript, explorando tanto o front-end quanto o back-end.
 
+💻 Minhas principais competências envolvem:
+
+JavaScript (ES6+) – programação funcional e orientada a objetos
+
+TypeScript – tipagem estática aplicada a projetos front-end e back-end
+
+Node.js, Express, MongoDB, MySQL/MariaDB – criação de APIs REST, autenticação (sessions e JWT), integrações e microserviços
+
+React JS (Hooks, Redux, Redux-Saga) – desenvolvimento de interfaces modernas e escaláveis
+
+NestJS + Strapi + PostgreSQL – aplicações robustas com CSR, SSR, SSG e ISR
+
+Ferramentas e práticas: Webpack, Babel, EJS, Jest (testes automatizados), Mongoose, Sequelize, princípios S.O.L.I.D, POO, padrões de projeto (GoF)
+
+🛠️ Também tenho experiência com configuração e deploy em servidores Linux (Ubuntu Server), aplicando práticas de segurança como SSH e TLS/HTTPS, garantindo performance e confiabilidade em produção.
+
+🌱 Estou em constante aprendizado e sempre buscando evoluir minhas habilidades técnicas e soft skills. Acredito no poder do trabalho em equipe e na troca de conhecimento para crescer junto com os projetos e pessoas ao meu redor.
 ---
 
 <p align="center">
