@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-🚀 Olá, muito prazer! 👋
+Olá, muito prazer! 👋
 Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP e apaixonado por tecnologia. Desde que iniciei meus estudos, tenho me dedicado a construir uma base sólida em desenvolvimento web e, atualmente, estou focado em me especializar no ecossistema JavaScript, explorando tanto o front-end quanto o back-end.
 
 💻 Minhas principais competências envolvem:
@@ -21,7 +21,6 @@ Ferramentas e práticas: Webpack, Babel, EJS, Jest (testes automatizados), Mongo
 
 🛠️ Também tenho experiência com configuração e deploy em servidores Linux (Ubuntu Server), aplicando práticas de segurança como SSH e TLS/HTTPS, garantindo performance e confiabilidade em produção.
 
-🌱 Estou em constante aprendizado e sempre buscando evoluir minhas habilidades técnicas e soft skills. Acredito no poder do trabalho em equipe e na troca de conhecimento para crescer junto com os projetos e pessoas ao meu redor.
 ---
 
 <p align="center">
