@@ -121,13 +121,21 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP e apaixonado p
 <img 
     align="left" 
     alt="SpringBoot" 
-    title="Java"
+    title="SpringBoot"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 
 
+<img 
+    align="left" 
+    alt="SqlDeveloper" 
+    title="SqlDeveloper"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" 
+/>
 
 <img 
     align="left" 
