@@ -109,6 +109,15 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP e apaixonado p
 
 <img 
     align="left" 
+    alt="SpringBoot" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />" 
+/>
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
