@@ -71,6 +71,17 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP e apaixonado p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
+
+<img 
+    align="left" 
+    alt="NextJs" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="TypeScript" 
