@@ -22,7 +22,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP e apaixonado p
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
         />
     </a>
-    
+
 </p>
 
 ---
@@ -158,7 +158,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP e apaixonado p
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-stats-generator.vercel.app/api/stats?username=eduardoarthurr/api/stats?type=languages&username=eduardoarthurr" 
+    src="https://github-readme-stats.vercel.app/api?username=eduardoarthurr&rank_icon=github&show_icons=true&theme=gruvbox&inclued_all_commits=true&locale=pt-br" 
   />
 
 <img 
@@ -169,4 +169,3 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP e apaixonado p
   />
 
 </p>
-
