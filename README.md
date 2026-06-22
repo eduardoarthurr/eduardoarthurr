@@ -168,4 +168,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP e apaixonado p
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoarthurr&theme=gruvbox&layout=compact&custom_title=Tecnologias&include_all_commits=true&langs_count=9" 
   />
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardoarthurr&theme=github-dark" />
+
 </p>
