@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Olá, muito prazer! 👋
-Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP e apaixonado por tecnologia. Desde que iniciei meus estudos, tenho me dedicado a construir uma base sólida em desenvolvimento web e, atualmente, estou focado em me especializar no ecossistema JavaScript, explorando tanto o front-end quanto o back-end.
+Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP e apaixonado por tecnologia. Desde que iniciei meus estudos, tenho me dedicado a construir uma base sólida em desenvolvimento web e, atualmente, estou focado em me especializar em Java e no ecossistema JavaScript, explorando tanto o front-end quanto o back-end.
 
 ---
 
