@@ -161,6 +161,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela FIAP e apaixonado p
     src="https://github-readme-stats.vercel.app/api?username=eduardoarthurr&rank_icon=github&show_icons=true&theme=gruvbox&inclued_all_commits=true&locale=pt-br" 
   />
 
-
+ <img 
+   align="left" 
+   alt="GitHub Stats" 
+   height="200" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoarthurr&theme=gruvbox&layout=compact&custom_title=Tecnologias&inclued_all_commits=true&langs_count=9" 
+  />
 
 </p>
